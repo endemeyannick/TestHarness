@@ -1,0 +1,15 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: TestLibrary, Configuration: Debug Win32 ------
+1>dllmain.cpp
+1>TestLibrary.cpp
+1>C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(22,18): warning C4251: 'Exception::_message': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Exception'
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+1>C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(38,15): warning C4251: 'Test::_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Test'
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+1>C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>Generating Code...
+1>   Creating library C:\Users\endem\project_dll\TestLibrary\Debug\TestLibrary.lib and object C:\Users\endem\project_dll\TestLibrary\Debug\TestLibrary.exp
+1>TestLibrary.vcxproj -> C:\Users\endem\project_dll\TestLibrary\Debug\TestLibrary.dll
+1>Done building project "TestLibrary.vcxproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
