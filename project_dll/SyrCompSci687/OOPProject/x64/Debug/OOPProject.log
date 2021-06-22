@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(22,18): warning C4251: 'Exception::_message': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Exception'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(38,15): warning C4251: 'Test::_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Test'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\endem\project_dll\SyrCompSci687\OOPProject\main.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TestExecution.cpp
+C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(22,18): warning C4251: 'Exception::_message': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Exception'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(38,15): warning C4251: 'Test::_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Test'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\endem\project_dll\SyrCompSci687\OOPProject\TestExecution.cpp(43,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TestLogResult.cpp
+C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(22,18): warning C4251: 'Exception::_message': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Exception'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\endem\project_dll\TestLibrary\TestLibrary\TestLibrary.h(38,15): warning C4251: 'Test::_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Test'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
+  OOPProject.vcxproj -> C:\Users\endem\project_dll\SyrCompSci687\x64\Debug\OOPProject.exe
+  ..\..\TestLibrary\x64\Debug\TestLibrary.dll
+  1 File(s) copied
